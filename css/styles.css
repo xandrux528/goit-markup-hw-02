@@ -6,12 +6,12 @@ body{
     color: #757575;
 }
 .link {
-    color: inherit;
+    color: #757575;
 }
 
-.link :hover,
-.link :focus {
-    color: #2196F3;;
+.link:hover,
+.link:focus {
+    color: #2196F3;
 }
 .list{
     list-style: none;
